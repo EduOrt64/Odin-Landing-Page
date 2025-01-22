@@ -1,0 +1,219 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  height: 420px;
+  background-color: #1f2937;
+  font-family: "Roboto", serif;
+}
+
+nav {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  gap: 27rem;
+}
+
+.nav-list {
+  width: auto;
+  height: 10px;
+  display: flex;
+}
+
+.logo-text {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+ul li {
+  width: 80px;
+  display: inline-block;
+  font-size: 18px;
+  margin-right: 12px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+.nav-link:hover {
+  color: gray;
+}
+.container1 {
+  width: 100%;
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+}
+
+.image-placeholder {
+  width: 350px;
+
+  display: flex;
+  margin-right: 50px;
+}
+
+.hero-bigtex {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.big-text {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+.secondtext {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+.but1 {
+  width: 85px;
+  height: 25px;
+  background-color: #3882f6;
+  border-radius: 8%;
+  border: none;
+}
+.butText {
+  color: white;
+  font-weight: bold;
+  font-family: 'roboto',sans-serif;
+}
+.butlink {
+  text-decoration: none;
+}
+.butlink:hover {
+  color: rgb(22, 21, 21);
+}
+#randomInfo {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-bottom: 60px;
+}
+
+.squareCont {
+  width: 100%;
+  display: flex;
+  height: 220px;
+  margin-top: 25px;
+  gap: 2rem;
+}
+.square {
+  border: 2.5px solid, #3882f6;
+  width: 145px;
+  height: 150px;
+  border-radius: 8%;
+}
+
+.randomText {
+  font-family: "roboto", sans-serif;
+  font-size: 36px;
+  font-weight: 900px;
+  color: #1f2937;
+  text-align: center;
+}
+
+.textCont {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.textsquare {
+  width: 145px;
+  height: auto;
+  margin-top: -68px;
+}
+
+h5 {
+  color: gray;
+}
+
+.quote {
+  width: 100%;
+  height: 340px;
+  background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quotecontainer {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  width: 80%;
+}
+
+.quoteText {
+  font-size: 36px;
+  font-weight: lighter;
+  font-family: "roboto", sans-serif;
+  color: #1f2937;
+}
+.quoteAuthor {
+  color: #1f2937;
+  font-weight: bold;
+  text-align: end;
+}
+
+.callAction {
+  width: 100%;
+  height: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.callContain {
+  width: 90%;
+  height: 120px;
+  
+  display: flex;
+  background-color: #3882f6;
+  border-radius: 2%;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.callText {
+  width: auto;
+}
+.callh3 {font-family: 'roboto',sans-serif;
+         color: #f9faf8;
+         font-size: 18px;
+}
+.callh4{font-family: 'roboto',sans-serif;
+        color: #f9faf8;
+        font-size: 16px;}
+
+.butcall{background-color:transparent;
+        border: solid 2px rgba(255, 255, 255, 0.565);
+        border-radius: 8%;
+        width: 80px;
+      height: 22px; }
+a{text-decoration: none;}
+
+.lfoot{width: 100%;
+      height:65px;
+      background-color: #1f2937;
+      display: flex;
+    align-items: center;
+    justify-content: center;}
+
+.copy{color: #e5e7eb;}
