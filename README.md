@@ -1,6 +1,6 @@
 # Odin-Landing-Page
 
-This has been such a very fun project for me. It has given me a deep understanding about how flex works. 
+This has been such a very fun project to me. It has given me a deep understanding about how flex works. 
 
 Just keep an eye on how flex works and you will be always sure about the movements or changes you are making.
 
